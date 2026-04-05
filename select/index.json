@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "春はもうすぐそこ",
+  "base_artist": "Lucky Kilimanjaro",
+  "createdAt": "2026-04-05T01:59:00.291365Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春はもうすぐそこ",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": true,
+      "path": "select/01_春はもうすぐそこ_Lucky_Kilimanjaro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春はもうすぐそこ",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": false,
+      "path": "select/pl_01_春はもうすぐそこ_Lucky_Kilimanjaro.txt"
+    }
+  ]
+}
